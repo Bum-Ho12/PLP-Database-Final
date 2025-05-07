@@ -59,25 +59,19 @@ task-manager-api/
 
 ### Installation Steps
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/task-manager-api.git
-   cd task-manager-api
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    npm install
    ```
 
-3. **Set up the database**
+2. **Set up the database**
 
    Import the SQL script to create your database:
    ```bash
    mysql -u yourusername -p < sql/task_manager.sql
    ```
 
-4. **Configure environment variables**
+3. **Configure environment variables**
 
    Create a `.env` file in the root directory:
    ```
@@ -89,7 +83,7 @@ task-manager-api/
    JWT_SECRET=your_jwt_secret_key
    ```
 
-5. **initialize the DB**
+4. **initialize the DB**
 ```bash
 npm run init-db
 ```
@@ -101,7 +95,7 @@ npm run init-db
  ```
  to initialize database and run the development server
 
-6. **Start the server**
+5. **Start the server**
    ```bash
    npm start
    ```
