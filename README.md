@@ -7,14 +7,14 @@ This repository contains solutions to two assignment questions:
 ## 🧩 Question 1: Library Management System
 
 📂 Directory: [`Question_1_Schema`](./Question_1_Schema/)
-📄 Documentation: [`README.md`](./Question_1_Schema/README.md)
+📄 Documentation: [`README.md`](Question_1_schema/README.md)
 
 ---
 
 ## 📋 Question 2: Task Manager API
 
 📂 Directory: [`task-manager-api`](./task-manager-api/)
-📄 Documentation: [`README.md`](./task-manager-api/README.md)
+📄 Documentation: [`README.md`](task-manager-api/README.md)
 
 ---
 
